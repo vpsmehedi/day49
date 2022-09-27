@@ -1,0 +1,20 @@
+/* 
+ * 
+
+*/
+/* command code start */
+:root{
+    --brand-color: #ffff;
+    --white-color: #ffff;
+    --black-color: #0000;
+}
+/* command code end */
+/* header code start */
+/* nav code start  */
+.nav-link{
+    text-decoration: uppercase;
+    color: var(--white-color)
+    font-weight: 600;
+}
+/* nav code end */
+/* header code end */
